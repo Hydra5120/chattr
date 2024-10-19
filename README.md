@@ -13,7 +13,7 @@
 ## Technology Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Backend**: Node.js with **Express** and **Socket.IO**
+- **Backend**: Node.js with **Socket.IO**
 - **Real-Time Communication**: Powered by **Socket.IO** for live, bidirectional communication.
 
 ## How It Works
